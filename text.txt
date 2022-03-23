@@ -12,3 +12,7 @@ Vous travaillez pour l'agence La Panth√®re, une grande agence de web design bas√
 2) KPIs
 
 *** Visiteurs uniques (VU) ;
+
+
+3) recherche des mots clefs
+
